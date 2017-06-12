@@ -10,7 +10,8 @@ let sequelize = new Sequelize(config.databaseName, config.user, config.password,
 
 let models = [
     'User',
-    'CustomLocation'
+    'CustomLocation',
+    'Event'
 ];
 
 models.forEach(function (model) {
