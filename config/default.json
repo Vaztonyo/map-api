@@ -1,0 +1,10 @@
+{
+  "database" : {
+    "host": "host",
+    "databaseName" : "custom_map",
+    "user": "root",
+    "password": "****",
+    "dialect" : "mysql"
+  },
+  "secret" : ""
+}
